@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BeautifyRuby",
+		"Case Conversion",
+		"ERB Insert and Toggle Commands",
+		"ERB Snippets",
+		"Package Control",
+		"RSpec",
+		"RSpecNavigator",
+		"RubyEval",
+		"RubyTest",
+		"RubyToggleString",
+		"SCSS",
+		"SublimeCodeIntel",
+		"SublimeXiki",
+		"Surround Code with Snippets",
+		"Theme - Phoenix",
+		"Theme - Soda"
+	]
+}
