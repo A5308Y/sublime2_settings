@@ -10,5 +10,7 @@
          "light_theme": "Phoenix Light.sublime-theme",
          "dark_theme": "Phoenix Dark.sublime-theme"
        }
-   }
+   },
+   { "keys": ["super+v"], "command": "paste_and_indent" },
+   { "keys": ["super+shift+v"], "command": "paste" }
 ]

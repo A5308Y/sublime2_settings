@@ -27,6 +27,7 @@
 		100
 	],
 	"save_on_focus_lost": true,
+	"show_full_path": true,
 	"show_tab_close_buttons": false,
 	"sublimelinter_executable_map":
 	{
