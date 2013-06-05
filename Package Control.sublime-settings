@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
 		"BeautifyRuby",
 		"BracketHighlighter",
 		"Case Conversion",
@@ -18,7 +19,6 @@
 		"RubyTest",
 		"SCSS",
 		"Shell Turtlestein",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Surround Code with Snippets",
 		"Theme - Phoenix",
