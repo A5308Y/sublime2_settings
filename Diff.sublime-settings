@@ -1,4 +1,5 @@
 {
   "font_size": 10,
-  "color_scheme": "Packages/User/IDLE.tmTheme"
+  "color_scheme": "Packages/User/IDLE.tmTheme",
+  "caret_style": "wide"
 }
